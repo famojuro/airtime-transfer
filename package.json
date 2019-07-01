@@ -1,0 +1,22 @@
+{
+  "name": "africa-talking",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "africastalking": "^0.4.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.0.0",
+    "express": "~4.16.1",
+    "google-libphonenumber": "^3.2.2",
+    "http-errors": "~1.6.3",
+    "joi": "^14.3.1",
+    "morgan": "~1.9.1",
+    "naija-phone-number": "^1.0.2",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.3"
+  }
+}
